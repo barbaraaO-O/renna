@@ -34,6 +34,11 @@ header {
   flex-wrap: wrap;
 }
 
+.judul {
+  text-decoration: none;
+  font-weight:bold;
+}
+
 nav ul {
   display: flex;
   list-style: none;
@@ -310,3 +315,4 @@ hr {
     justify-content: center;
   }
 }
+
