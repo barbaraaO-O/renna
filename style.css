@@ -37,6 +37,7 @@ header {
 .judul {
   text-decoration: none;
   font-weight:bold;
+  color: black;
 }
 
 nav ul {
@@ -315,4 +316,5 @@ hr {
     justify-content: center;
   }
 }
+
 
